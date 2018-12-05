@@ -1,19 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Regina Nuzzo
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Regina Nuzzo
+Statistician, Journalist, Communicator, Professor
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Hanging out.
 
 ### Specialized in
 
@@ -58,7 +53,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +82,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-

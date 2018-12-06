@@ -11,7 +11,6 @@ Statistician, Journalist, Communicator, Professor
 | <a href="my.gallaudet.edu/regina-nuzzo">university web page</a>
 </div>
 
-
 ## education
 ### degrees
 
@@ -28,7 +27,7 @@ Graduate certificate, __University of California-Santa Cruz__, Science Communica
 
 ## professional experience
 ### academic
-`2006 - present`
+`2006 -- `
  Professor/Associate Professor/Assistant Professor
 <br>
 Department of Science, Technology & Mathematics
@@ -49,7 +48,7 @@ Graduate Teaching Assistant
 <br>**Stanford University Department of Statistics**, Palo Alto, California
 
 ### communication
-`2006 - present`
+`2006 -- `
  **Freelance Journalist and Writer**
 <br> Experience with features, profiles, news pieces, and service pieces for magazines and newspapers
 <br>Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health.
@@ -82,8 +81,8 @@ Graduate Teaching Assistant
 ## scholarly and creative activities
 
 ## data, probability, and statistics
-#### popular press
 
+#### popular press
 
 Nuzzo, Regina. [“When courtroom science goes wrong --- and how stats can fix it.”](https://www.knowablemagazine.org/article/society/2018/when-courtroom-science-goes-wrong-and-how-stats-can-fix-it) Comics. _Knowable Magazine_, October 2018. (with artist Maki Naro)
 
@@ -156,7 +155,7 @@ Vines, Bradley W., Marcelo M. Wanderley, Carol L. Krumhansl, Regina L. Nuzzo, an
 
 Vines, B. W., R. L. Nuzzo, and D. J. Levitin. "Functional data analysis: techniques for exploring temporal processes in music." In _Proc. International Conference on Music Perception and Cognition (ICMPC)_, pp. 553-554. 2004.
 
-#### selected conference presentations
+#### conference presentations
 Nuzzo, Regina. “How to increase statistical literacy by thinking like a journalist.” Presented at the Joint Statistical Meetings, Vancouver, BC, Canada, July 2018.
 
 Nuzzo, Regina. “Why the media are uncomfortable with uncertainty, and what statistics can do to fix that.” Presented at the World Statistics Congress, Marrakech, Morocco, July 2017.
@@ -177,7 +176,7 @@ Ramsay, James and Nuzzo, Regina. “Functional Analysis of Music Data.” Presen
 
 Ramsay, James and Nuzzo, Regina. “Functional Data Analysis for Pharmacokinetic Data.” Presented at the Institute of Mathematical Statistics Annual Meeting, Banff, Alberta, Canada, July 29, 2002.
 
-#### Honors and awards
+#### honors and awards
 Outstanding Young Researcher Award, Gallaudet University, 2016.
 
 Excellence in Statistical Reporting Award, American Statistical Association, 2014.

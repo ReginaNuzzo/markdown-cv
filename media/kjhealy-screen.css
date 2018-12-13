@@ -134,7 +134,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #e62739;
+	color: #FF0000;
 	margin-top: 1em;
 	position: relative;
 	top: 1.4em;
@@ -162,7 +162,7 @@ h4 {
 }
 
 a {
-	color: #3D40AB;
+	color: #006699;
 	text-decoration:none;
 }
 
@@ -173,7 +173,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 34.5%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 90%;

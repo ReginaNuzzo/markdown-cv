@@ -8,7 +8,7 @@ Statistician, Journalist, Communicator, Professor
 
 <div id="webaddress">
 <a href="Regina.Nuzzo@gmail.com">Regina.Nuzzo@gmail.com</a>
-| <a href="my.gallaudet.edu/regina-nuzzo">university web page</a>
+| <a href="my.gallaudet.edu/regina-nuzzo">web page</a>
 </div>
 
 ## education
@@ -82,7 +82,7 @@ Graduate Teaching Assistant
 
 ## data, probability, and statistics
 
-#### popular press
+### popular press
 
 Nuzzo, Regina. [“When courtroom science goes wrong --- and how stats can fix it.”](https://www.knowablemagazine.org/article/society/2018/when-courtroom-science-goes-wrong-and-how-stats-can-fix-it) Comics. _Knowable Magazine_, October 2018. (with artist Maki Naro)
 
@@ -104,7 +104,7 @@ Nuzzo, Regina. [“Nabbing Suspicious SNPs.”]([https://onlinelibrary.wiley.com
 
 Nuzzo, Regina. [“Seeing the Pattern.”](https://www.crmagazine.org/archive/Spring2008/Pages/SeeingthePattern.aspx) Profiles. _CR Magazine_, Spring 2008, Vol. No. 3, Issue No. 2.
 
-#### trade press and journals
+### trade press and journals
 Nuzzo, Regina L. [“Percent Differences: Another Look.”](https://www.pmrjournal.org/article/S1934-1482(18)30234-X/abstract) _Physical Medicine & Rehabilitation_ 10, no. 6 (2018): 661-664
 
 Nuzzo, Regina L. ["An Introduction to Bayesian Data Analysis for Correlations."](https://www.pmrjournal.org/article/S1934-1482(17)31413-2/abstract) (2017): 1278-1282.
@@ -141,7 +141,7 @@ Nuzzo, Regina. ["Profile of George Oster."](http://www.pnas.org/content/103/6/16
 
 Nuzzo, Regina. ["Profile of Stephen H. Schneider."](http://www.pnas.org/content/102/44/15725) _Proceedings of the National Academy of Sciences_ 102, no. 44 (2005): 15725-15727.
 
-#### refereed journal articles
+### refereed journal articles
 Dodson, Kelley M., Susan H. Blanton, Katherine O. Welch, Virginia W. Norris, Regina L. Nuzzo, Jacob A. Wegelin, Ruth S. Marin, Walter E. Nance, Arti Pandya, and Kathleen S. Arnos. ["Vestibular dysfunction in DFNB1 deafness."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080433/) _American Journal of Medical Genetics Part A_ 155, no. 5 (2011): 993-1000.
 
 Levitin, Daniel J., Regina L. Nuzzo, Bradley W. Vines, and J. O. Ramsay. ["Introduction to functional data analysis." ](http://daniellevitin.com/levitinlab/articles/2007-Levitin-Canadian-Psychology.pdf)_Canadian Psychology/Psychologie canadienne_ 48, no. 3 (2007): 135.
@@ -150,12 +150,12 @@ Vines, Bradley W., Regina L. Nuzzo, and Daniel J. Levitin. ["Analyzing Temporal 
 
 Bhamre, Suvarna, Regina Nuzzo, John Whitin, Richard Olshen, and Harvey Cohen. ["Intracellular reduction of selenite into glutathione peroxidase. Evidence for involvement of NADPH and not glutathione as the reductant."](https://www.ncbi.nlm.nih.gov/pubmed/11055542) _Molecular and cellular biochemistry_ 211, no. 1-2 (2000): 9-17.
 
-#### refereed conference papers
+### refereed conference papers
 Vines, Bradley W., Marcelo M. Wanderley, Carol L. Krumhansl, Regina L. Nuzzo, and Daniel J. Levitin. ["Performance gestures of musicians: What structural and emotional information do they convey?."](http://daniellevitin.com/levitinlab/articles/2004-Vines-Performance_gesture.pdf) In _International Gesture Workshop_, pp. 468-478. Springer, Berlin, Heidelberg, 2003.
 
 Vines, B. W., R. L. Nuzzo, and D. J. Levitin. "Functional data analysis: techniques for exploring temporal processes in music." In _Proc. International Conference on Music Perception and Cognition (ICMPC)_, pp. 553-554. 2004.
 
-#### conference presentations
+### conference presentations
 Nuzzo, Regina. “How to increase statistical literacy by thinking like a journalist.” Presented at the Joint Statistical Meetings, Vancouver, BC, Canada, July 2018.
 
 Nuzzo, Regina. “Why the media are uncomfortable with uncertainty, and what statistics can do to fix that.” Presented at the World Statistics Congress, Marrakech, Morocco, July 2017.
@@ -176,13 +176,13 @@ Ramsay, James and Nuzzo, Regina. “Functional Analysis of Music Data.” Presen
 
 Ramsay, James and Nuzzo, Regina. “Functional Data Analysis for Pharmacokinetic Data.” Presented at the Institute of Mathematical Statistics Annual Meeting, Banff, Alberta, Canada, July 29, 2002.
 
-#### honors and awards
+### honors and awards
 Outstanding Young Researcher Award, Gallaudet University, 2016.
 
 Excellence in Statistical Reporting Award, American Statistical Association, 2014.
 
 ## other science
-#### popular press
+### popular press
 Nuzzo, Regina. [“What happens when scientists experiment on themselves?”](https://www.rd.com/health/healthcare/scientists-self-experiment/) Health Features. _Reader’s Digest_, 2014.
 
 Nuzzo, Regina. [“Straight from the horse’s nose.”](http://www.espn.com/horse-racing/story/\_/id/10973676/science-california-chrome-nasal-strip-espn-magazine) Science. _ESPN the Magazine_, May 28, 2014.
@@ -271,7 +271,7 @@ Nuzzo, Regina. [“Walking: It’s good for everything.”](http://articles.lati
 
 Nuzzo, Regina. [“Mark of the vampire: an enzyme that may help prevent brain damage in stroke victims.”](http://articles.latimes.com/2006/oct/30/health/he-lab30) Health: News. _Los Angeles Times_, Oct. 30, 2006.
 
-#### trade press and journals
+### trade press and journals
 Nuzzo, Regina. [“Brain Folding.”](http://biomedicalcomputationreview.org/content/brain-folding) News Bytes. _Biomedical Computation Review_, Summer 2010, Vol. 6, Issue No. 3.
 
 Nuzzo, Regina. [“Hot Bodies a Lure for Unseen Specks.”](http://biomedicalcomputationreview.org/content/hot-bodies-lure-unseen-specks) News Bytes. _Biomedical Computation Review_, Summer 2010, Vol. 6, Issue No. 3.
@@ -404,10 +404,8 @@ Panelist, Career panel, University of Texas Medical Branch, March 15, 2011.
 
 Full-day workshop co-presenter, “Functional Data Analysis using R” (with James Ramsay), International Meeting of the Psychometric Society, Cagliari, Sardinia, Italy, July 7, 2003.
 
-Reviwer, _Journal of Clinical Epidemiology_, _Nature Methods_, _Philosophies_, _BMJ Open_, _Proceedings of the National Academy of Sciences_, _PLOS ONE_, _PeerJ_, _Journal of the National Cancer Institute_.
-
-
+Reviewer, _Journal of Clinical Epidemiology_, _Nature Methods_, _Philosophies_, _BMJ Open_, _Proceedings of the National Academy of Sciences_, _PLOS ONE_, _PeerJ_, _Journal of the National Cancer Institute_.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2013=8 -->

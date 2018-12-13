@@ -74,7 +74,7 @@ code {
 	font-size: 73%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #404040;
+	color: #660000;
 }
 
 p code {
@@ -163,7 +163,7 @@ h4 {
 }
 
 a {
-	color: #3D40AB;
+	color: #006699;
 	text-decoration:none
 }
 

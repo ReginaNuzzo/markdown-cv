@@ -7,8 +7,9 @@ title: Regina Nuzzo
 Statistician, Journalist, Communicator, Professor
 
 <div id="webaddress">
-<a href="Regina.Nuzzo@gmail.com">Regina.Nuzzo@gmail.com</a>
-| <a href="my.gallaudet.edu/regina-nuzzo">web page</a>
+<a href="mailto: Regina.Nuzzo@gmail.com">Regina.Nuzzo@gmail.com</a> |
+<a href="https://www.reginanuzzo.com">www.ReginaNuzzo.com</a> |
+<a href="https://www.twitter.com">@ReginaNuzzo</a>
 </div>
 
 ## education
@@ -24,10 +25,9 @@ B.S. __University of South Florida__, Industrial Engineering
 `2004`
 Graduate certificate, __University of California-Santa Cruz__, Science Communication
 
-
 ## professional experience
 ### academic
-`2006 -- `
+`2006 - presesnt `
  Professor/Associate Professor/Assistant Professor
 <br>
 Department of Science, Technology & Mathematics
@@ -48,10 +48,9 @@ Graduate Teaching Assistant
 <br>**Stanford University Department of Statistics**, Palo Alto, California
 
 ### communication
-`2006 -- `
+`2006 - present`
  **Freelance Journalist and Writer**
-<br> Experience with features, profiles, news pieces, and service pieces for magazines and newspapers
-<br>Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health.
+<br> Experience with features, profiles, news, and service stories for magazines and newspapers. Specialties: statistics, probability, data analysis, medicine, health, and the scientific research process.
 
 `2005 - 2006` Science Writer
 <br>__National Academy of Sciences__
@@ -64,23 +63,23 @@ Graduate Teaching Assistant
 
 ### selected consultancies
 **Consultant, U.S. Department of Health and Human Services**
-<br>developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), May 2018.
+<br>Developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), May 2018.
 
 **Consultant, Massachusetts Institute of Technology Knight Science Journalism Fellowship Program**
-<br>developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin), January, 2017.
+<br>Developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin), January, 2017.
 
 **Consultant, American Statistical Association**
-<br>planned and facilitated two-day on-site policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
+<br>Planned and facilitated two-day policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
 
 **Consultant, George Washington School of Media and Public Affairs**
-<br>developed and presented sessions for a two-day workshop for on science writing for George Washington University, Washington, D.C., April 13 -14, 2015.
+<br>Developed and presented sessions for a two-day workshop for on science writing for George Washington University, Washington, D.C., April 13 -14, 2015.
 
 **Writer, _Reader’s Digest_**
-<br>researched and wrote “News from the World of Medicine” monthly column, 2012 - 2013.
+<br>Researched and wrote “News from the World of Medicine” monthly column, 2012 - 2013.
 
-## scholarly and creative activities
+## scholarly & creative products:
 
-## data, probability, and statistics
+## data, probability, & statistics
 
 ### popular press
 

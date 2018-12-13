@@ -53,13 +53,15 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 83%;
+	font-size: 108%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	margin-top: 1em;
+	margin-top: 2em;
 	margin-left: 1em;
 }
+
+
 
 p {
 	position: relative;
@@ -71,7 +73,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 73%;
+	font-size: 70%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color:  #404040;
@@ -173,10 +175,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 34.5%;
+	left: 34%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 100%;
 }
 
 #webaddress a {

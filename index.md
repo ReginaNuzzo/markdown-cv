@@ -65,6 +65,8 @@ Graduate Teaching Assistant
 **Consultant, U.S. Department of Health and Human Services**
 <br>Developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), May 2018.
 
+<br>
+
 **Consultant, Massachusetts Institute of Technology Knight Science Journalism Fellowship Program**
 <br>Developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin), January, 2017.
 
@@ -72,7 +74,7 @@ Graduate Teaching Assistant
 <br>Planned and facilitated two-day policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
 
 **Consultant, George Washington School of Media and Public Affairs**
-<br>Developed and presented sessions for a two-day workshop for on science writing for George Washington University, Washington, D.C., April 13 -14, 2015.
+<br>Developed and presented sessions for two-day workshop on public engagement of science for George Washington University, Washington, D.C., April 13-14, 2015.
 
 **Writer, _Reader’s Digest_**
 <br>Researched and wrote “News from the World of Medicine” monthly column, 2012 - 2013.
@@ -91,7 +93,7 @@ Nuzzo, Regina. [“How scientists fool themselves -- and how they can stop."](ht
 
 Nuzzo, Regina. [“Scientists Perturbed by Loss of Stat Tools to Sift Research Fudge from Fact.”](https://www.scientificamerican.com/article/scientists-perturbed-by-loss-of-stat-tools-to-sift-research-fudge-from-fact/) The Sciences. _Scientific American_, April 16, 2015.
 
-Nuzzo, Regina. [“Chance: Peace talks in the probability Wars.”](https://www.newscientist.com/article/mg22530121-200-chance-peace-talks-in-the-probability-wars/) _New Scientist_, Physics Features. March 2015.
+Nuzzo, Regina. [“Chance: Peace talks in the probability wars.”](https://www.newscientist.com/article/mg22530121-200-chance-peace-talks-in-the-probability-wars/) _New Scientist_, Physics Features. March 2015.
 
 Van Noorden, Richard, Brendan Maher, and Regina Nuzzo. ["The top 100 papers."](https://www.nature.com/news/the-top-100-papers-1.16224) _Nature News_ 514, no. 7524 (2014): 550.
 
@@ -102,6 +104,9 @@ Nuzzo, Regina. [“Scientific Method: Statistical Errors.”]([https://www.natur
 Nuzzo, Regina. [“Nabbing Suspicious SNPs.”]([https://onlinelibrary.wiley.com/doi/pdf/10.1002/scin.2008.5591731920]) Features: Biomedicine, Genes & Cells. _Science News_, June 21, 2008, Vol. 173, Issue No.19.
 
 Nuzzo, Regina. [“Seeing the Pattern.”](https://www.crmagazine.org/archive/Spring2008/Pages/SeeingthePattern.aspx) Profiles. _CR Magazine_, Spring 2008, Vol. No. 3, Issue No. 2.
+
+<br>
+<br>
 
 ### trade press and journals
 Nuzzo, Regina L. [“Percent Differences: Another Look.”](https://www.pmrjournal.org/article/S1934-1482(18)30234-X/abstract) _Physical Medicine & Rehabilitation_ 10, no. 6 (2018): 661-664
@@ -126,7 +131,7 @@ Nuzzo, Regina. [“Parsing PubMed.”](http://www.biomedicalcomputationreview.or
 
 Nuzzo, Regina. [“Computational biomechanics: taking strides toward patient care,”](http://biomedicalcomputationreview.org/sites/default/files/2006-2007-win-ftr1-computational.pdf) Features. _Biomedical Computation Review_, vol. 3 issue 1, Winter 2006/2007.
 
-Nuzzo, Regina. [“Brain Chips.”](http://biomedicalcomputationreview.org/content/brain-chips) News Bytes. _Biomedical Computation Review_, vol. 2 issue 4, Fall 2006.
+Nuzzo, Regina. [“Brain Chips.”](http://biomedicalcomputationreview.org/content/brain-chips) News. _Biomedical Computation Review_, vol. 2 issue 4, Fall 2006.
 
 Nuzzo, Regina. [“Neurocomputation of Music, Faces, and Belly Laughs.”](http://biomedicalcomputationreview.org/content/neurocomputation-music-faces-and-belly-laughs) News Bytes. _Biomedical Computation Review_, vol. 2 issue 4, Fall 2006.
 
@@ -139,6 +144,10 @@ Nuzzo, Regina. ["Profile of David W. McLaughlin."](http://www.pnas.org/content/1
 Nuzzo, Regina. ["Profile of George Oster."](http://www.pnas.org/content/103/6/1672) _Proceedings of the National Academy of Sciences_  103, no. 6 (2006): 1672-1674.
 
 Nuzzo, Regina. ["Profile of Stephen H. Schneider."](http://www.pnas.org/content/102/44/15725) _Proceedings of the National Academy of Sciences_ 102, no. 44 (2005): 15725-15727.
+
+<br>
+<br>
+<br>
 
 ### refereed journal articles
 Dodson, Kelley M., Susan H. Blanton, Katherine O. Welch, Virginia W. Norris, Regina L. Nuzzo, Jacob A. Wegelin, Ruth S. Marin, Walter E. Nance, Arti Pandya, and Kathleen S. Arnos. ["Vestibular dysfunction in DFNB1 deafness."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080433/) _American Journal of Medical Genetics Part A_ 155, no. 5 (2011): 993-1000.
@@ -174,11 +183,6 @@ Nuzzo, Regina. “Data Journalism: Who needs statisticians?” Presented for the
 Ramsay, James and Nuzzo, Regina. “Functional Analysis of Music Data.” Presented at the Statistical Society of Canada Annual Meeting, Halifax, Nova Scotia, Canada, June 2003.
 
 Ramsay, James and Nuzzo, Regina. “Functional Data Analysis for Pharmacokinetic Data.” Presented at the Institute of Mathematical Statistics Annual Meeting, Banff, Alberta, Canada, July 29, 2002.
-
-### honors and awards
-Outstanding Young Researcher Award, Gallaudet University, 2016.
-
-Excellence in Statistical Reporting Award, American Statistical Association, 2014.
 
 ## other science
 ### popular press
@@ -305,6 +309,8 @@ Nuzzo, Regina. ["Biography of Veerabhadran Ramanathan."](http://www.pnas.org/con
 
 Nuzzo, Regina. ["Biography of George E. Andrews."](http://www.pnas.org/content/102/13/4663) _Proceedings of the National Academy of Sciences_ 102, no. 13 (2005): 4663-4665.
 
+<br>
+
 ## invited lectures, presentations, and media appearances
 Invited presenter, “Statistics Communication: Thoughts on a New Model of Engagement,” Pew Research Center “Shop Talk” seminar series, Washington, DC, September 2018
 
@@ -362,6 +368,8 @@ Guest, NBC’s “TODAY Show,” discussing science of mating in LA Times articl
 
 Invited presenter, “Differential Equations for Pharmacokinetic Data,” Université Laval Department of Mathematics and Statistics Seminar Series, Québec, Canada, January 30, 2003.
 
+<br>
+
 ## professional service
 Invited session co-organizer, “The Ethics of Data Communication” (with Liberty Vittert), World Statistics Congress, Kuala Lumpur, Malaysia, August 2019 (accepted).
 
@@ -404,6 +412,14 @@ Panelist, Career panel, University of Texas Medical Branch, March 15, 2011.
 Full-day workshop co-presenter, “Functional Data Analysis using R” (with James Ramsay), International Meeting of the Psychometric Society, Cagliari, Sardinia, Italy, July 7, 2003.
 
 Reviewer, _Journal of Clinical Epidemiology_, _Nature Methods_, _Philosophies_, _BMJ Open_, _Proceedings of the National Academy of Sciences_, _PLOS ONE_, _PeerJ_, _Journal of the National Cancer Institute_.
+
+### memberships
+American Statistical Association, National Association of Science Writers, Institute of Mathematical Statistics, International Statistical Institute, Washington Statistical Society, DC Science Writers Association
+
+### honors and awards
+Outstanding Young Researcher Award, Gallaudet University, 2016.
+
+Excellence in Statistical Reporting Award, American Statistical Association, 2014.
 
 <!-- ### Footer
 
